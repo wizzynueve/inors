@@ -1,0 +1,14 @@
+{
+  "name": "inor",
+  "version": "0.0.1",
+  "description": "Inventory and Ordering System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wizzyNueve",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
